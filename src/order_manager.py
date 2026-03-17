@@ -1,2 +1,2 @@
 def check():
-	TODO("52")
+	TODO()
